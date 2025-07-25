@@ -1,6 +1,8 @@
 # AI Multilingual Diet Analysis Assistant
 
 This is an AI-powered multilingual diet analysis assistant that helps users analyze food calories in multiple languages.
+
+
 <img width="1770" height="1238" alt="image" src="https://github.com/user-attachments/assets/944afb33-3ccd-40e7-a35b-8e6f1e62e991" />
 <img width="1770" height="1242" alt="image" src="https://github.com/user-attachments/assets/2c6db02a-e656-4d41-b77e-6ae9cf5a6ce5" />
 
